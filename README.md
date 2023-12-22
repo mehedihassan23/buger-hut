@@ -6,5 +6,6 @@
    <li>Install react router dom.</li>
    <li>Create navigation bar.</li>
    <li>Write code for responsive the navigation bar.</li>
-
+   <li>Design the footer area.</li>
+   <li>Style the footer area.</li>
 </ol>

@@ -1,4 +1,4 @@
-.navBar{
+.footer{
     min-height: 10vh;
     padding: 0 10rem;
     background-color: black;
@@ -6,23 +6,27 @@
     justify-content: space-between;
     align-items: center;
 }
-.logo{
-    color: rgb(173, 32, 32);
-    font-size: 4rem;
-    font-weight: 900;
-}
-.navBar a{
-    color: white;
+.copyright{
     font-size: 2rem;
+    color: white;
+}
+.span{
+    color: crimson;
+}
+.center{
+    font-size: 2rem;
+    color: white;
+}
+.socialMedia{}
+.socialMedia a{
+    font-size: 3rem;
+    color: white;
     padding: 0 1rem;
-    text-decoration: none;
     transition: 0.5s;
 }
-.navBar a:hover{
-    color: rgb(201, 15, 15);
+.socialMedia a:hover{
+    color: crimson
 }
-
-
 /*Responsive area*/
 
 
@@ -31,18 +35,26 @@
     html{
         font-size: 50%;
     }
-    .navBar{
+    
+    .footer{
         min-height: 10vh;
         padding: 0 5rem;
        
     }
-    .logo{
-        font-size: 2.5rem;
+    .copyright{
+        font-size: 1.5rem;
+        
     }
-    .navBar a{
-        color: white;
+    
+    .center{
         font-size: 2rem;
-        padding: 0 1rem;  
+ 
+    }
+
+    .socialMedia a{
+        font-size: 2rem;
+        padding: 0 0.6rem;
+        
     }
     
  }
@@ -52,16 +64,16 @@
     html{
         font-size: 55%;
     }
-    .navBar{
-       
-        padding: 0 8rem;
+    .footer{
+        padding: 0 8rem;  
     }
-    .logo{
-        font-size: 3rem;
+    .copyright{
+        font-size: 1.8rem;    
     }
-}
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) { 
+    .socialMedia a{
+        font-size: 2.6rem;
+        padding: 0 0.8rem;
+        
+    }
     
 }
