@@ -1,0 +1,59 @@
+.about{
+    min-height: 80vh;
+}
+.aboutHeading{
+    text-align: center;
+    font-size: 3rem;
+    padding: 5rem 0;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+.description{
+    padding: 0 20rem;
+    text-align: justify;
+    font-size: 2rem;
+}
+
+
+
+
+/*Responsive area*/
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+    html{
+        font-size: 50%;
+    }
+    .about{
+        min-height: 80vh;
+    }
+    .aboutHeading{
+        text-align: center;
+        font-size: 2.5rem;
+        padding: 2.5rem 0;
+        
+    }
+    .description{
+        padding: 5rem 10rem;  
+        font-size: 1.5rem;
+    }
+    
+ }
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px)  {
+    html{
+        font-size: 55%;
+    }
+     
+    .aboutHeading{  
+        font-size: 2rem;
+        padding: 4rem 0;     
+    }
+    .description{
+        padding: 5rem 15rem;
+        text-align: justify;
+        font-size: 1.8rem;
+    }
+}

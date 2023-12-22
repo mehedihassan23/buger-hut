@@ -9,8 +9,8 @@ const Navigation = () => {
         <div className="navList">
             <a href="/">Home</a>
             <a href="/menu">Menu</a>
-            <a href="/home">About</a>
-            <a href="/home">Contact</a>
+            <a href="/about">About</a>
+            <a href="/contact">Contact</a>
         </div>
       </nav>
     </div>

@@ -12,4 +12,6 @@
    <li>Style Home page.</li>
    <li> Design Menu page.</li>
    <li>Style Menu page.</li>
+   <li> Design About page.</li>
+   <li>Style About page.</li>
 </ol>
