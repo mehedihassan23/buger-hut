@@ -14,4 +14,9 @@
    <li>Style Menu page.</li>
    <li> Design About page.</li>
    <li>Style About page.</li>
+   <li> Design Contact page.</li>
+   <li>Style Contact page.</li>
 </ol>
+<details>
+ This project is created only for practice purpose. We use react icons, react router dom and other component for development.  After complete this project is deployed to vercel for live the page.
+</details>
