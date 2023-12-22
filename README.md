@@ -17,6 +17,6 @@
    <li> Design Contact page.</li>
    <li>Style Contact page.</li>
 </ol>
-<details>
+<article>
  This project is created only for practice purpose. We use react icons, react router dom and other component for development.  After complete this project is deployed to vercel for live the page.
-</details>
+</article>
