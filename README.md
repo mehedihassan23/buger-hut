@@ -8,4 +8,6 @@
    <li>Write code for responsive the navigation bar.</li>
    <li>Design the footer area.</li>
    <li>Style the footer area.</li>
+   <li>Design Home page.</li>
+   <li>Style Home page.</li>
 </ol>
