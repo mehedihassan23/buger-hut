@@ -7,8 +7,8 @@ const Navigation = () => {
       <nav className='navBar'>
         <div className="logo">Burger Hut</div>
         <div className="navList">
-            <a href="/home">Home</a>
-            <a href="/home">Menu</a>
+            <a href="/">Home</a>
+            <a href="/menu">Menu</a>
             <a href="/home">About</a>
             <a href="/home">Contact</a>
         </div>

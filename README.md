@@ -10,4 +10,6 @@
    <li>Style the footer area.</li>
    <li>Design Home page.</li>
    <li>Style Home page.</li>
+   <li> Design Menu page.</li>
+   <li>Style Menu page.</li>
 </ol>

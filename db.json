@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hot Pizza",
+      "price": 20,
+      "image": "../../assets/pizza1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Chinise Pizza",
+      "price": 15,
+      "image": "../../assets/pizza1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Finish Pizza",
+      "price": 18,
+      "image": "../../assets/pizza1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Hot Pizza",
+      "price": 20,
+      "image": "../../assets/pizza1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Chinise Pizza",
+      "price": 15,
+      "image": "../../assets/pizza1.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Finish Pizza",
+      "price": 18,
+      "image": "../../assets/pizza1.jpg"
+    }
+  ]
+ 
+}
